@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+      "item": "bettersponges:wet_compact_sponge"
+  },
+  "result": "bettersponges:compact_sponge",
+  "experience": 1.0,
+  "cookingtime": 100
+}
